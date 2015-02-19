@@ -1,0 +1,13 @@
+/**
+	AtomCore 
+
+	Copyright (c) 2009-2014 ATOMLABS
+
+	@package Atom
+	@version 1.0.2
+**/
+
+.atomcore-megamenu-handle, .atomcore-megamenu-handle-sub {float: right;margin-left: 10px;margin-right: 0;}
+.atomcore-megamenu-direction {float:right;width:100%}
+.atomcore-megamenu-direction label {float:right;margin-left:10px;}
+.atomcore-megamenu {margin-left: 0;margin-right: -10px;}

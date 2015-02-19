@@ -1,0 +1,2954 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ATOMlux\n"
+"POT-Creation-Date: 2014-04-25 20:46+0700\n"
+"PO-Revision-Date: 2014-04-25 20:46+0700\n"
+"Last-Translator: ATOMLABS <atomlabs.me@gmail.com>\n"
+"Language-Team: ATOMLABS <atomlabs.me@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:22
+msgid "That page can't be found."
+msgstr ""
+
+#: ../404.php:26
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../404.php:33
+msgid "Most Used Categories"
+msgstr ""
+
+#: ../404.php:40
+msgid "Try looking in the monthly archives."
+msgstr ""
+
+#: ../admin/data_sources.php:117 ../extras/metaslider/metaslider.php:81
+msgid "Slider: "
+msgstr ""
+
+#: ../admin/metabox.php:6
+msgid "Featured Video/Audio"
+msgstr ""
+
+#: ../admin/metabox.php:14
+msgid "Embed Code"
+msgstr ""
+
+#: ../admin/metabox.php:15
+msgid ""
+"Fill with your video code/soundcloud code/embed code. If you use VIDEO or "
+"AUDIO post format."
+msgstr ""
+
+#: ../admin/metabox.php:20 ../inc/plugins/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: ../admin/metabox.php:24
+msgid "Soundcloud"
+msgstr ""
+
+#: ../admin/metabox.php:28 ../premium/inc/widgets.php:22
+msgid "Vimeo"
+msgstr ""
+
+#: ../admin/metabox.php:32
+msgid "Youtube"
+msgstr ""
+
+#: ../admin/metabox.php:36
+msgid "Other (use iframe)"
+msgstr ""
+
+#: ../admin/option/option.php:4
+msgid "ATOMLABS Option Panel"
+msgstr ""
+
+#: ../admin/option/option.php:8 ../admin/option/option.php:48
+#: ../inc/settings.php:23 ../premium/inc/customizer.php:12
+msgid "General"
+msgstr ""
+
+#: ../admin/option/option.php:14 ../admin/option/option.php:16
+msgid "Home Slider"
+msgstr ""
+
+#: ../admin/option/option.php:21 ../inc/settings.php:114
+msgid "Home Page Slider"
+msgstr ""
+
+#: ../admin/option/option.php:22
+msgid "This theme supports <a href=\""
+msgstr ""
+
+#: ../admin/option/option.php:38 ../inc/settings.php:124
+msgid "Stretch Home Slider"
+msgstr ""
+
+#: ../admin/option/option.php:39 ../inc/settings.php:126
+msgid ""
+"Stretch the home page slider to the width of the screen if using the full "
+"width layout."
+msgstr ""
+
+#: ../admin/option/option.php:46
+msgid "General Settings"
+msgstr ""
+
+#: ../admin/option/option.php:53
+msgid "Phone Number"
+msgstr ""
+
+#: ../admin/option/option.php:54
+msgid "Your contact number, show on header."
+msgstr ""
+
+#: ../admin/option/option.php:60
+msgid "Contact Email"
+msgstr ""
+
+#: ../admin/option/option.php:61
+msgid "Your contact email, show on header."
+msgstr ""
+
+#: ../admin/option/option.php:67 ../inc/settings.php:191
+msgid "Site Information Text"
+msgstr ""
+
+#: ../admin/option/option.php:68 ../inc/settings.php:192
+msgid "Text displayed in your footer. Useful for copyright information."
+msgstr ""
+
+#: ../admin/option/option.php:74 ../extras/settings/settings.php:250
+msgid "Display Hover Edit Icon"
+msgstr ""
+
+#: ../admin/option/option.php:75 ../extras/settings/settings.php:251
+msgid ""
+"Display a small icon that makes quickly editing fields easy. This is only "
+"shown to admin users."
+msgstr ""
+
+#: ../admin/option/option.php:81 ../inc/settings.php:173
+msgid "Ajax Comments"
+msgstr ""
+
+#: ../admin/option/option.php:82 ../inc/settings.php:174
+msgid "Keep your conversations flowing with ajax comments."
+msgstr ""
+
+#: ../admin/option/option.php:89
+msgid "Content Lightbox Modals"
+msgstr ""
+
+#: ../admin/option/option.php:95
+msgid "Use Content Lightbox Modals?"
+msgstr ""
+
+#: ../admin/option/option.php:100
+msgid "Modals window title"
+msgstr ""
+
+#: ../admin/option/option.php:110
+msgid "Content Code (html allowed)"
+msgstr ""
+
+#: ../admin/option/option.php:111
+msgid "you can fill with your fans page code, or option code"
+msgstr ""
+
+#: ../admin/option/option.php:120
+msgid "Use Cookie?"
+msgstr ""
+
+#: ../admin/option/option.php:121
+msgid "if COOKIE OFF will show everypage, No limitation"
+msgstr ""
+
+#: ../admin/option/option.php:131
+msgid "Each visitor show every"
+msgstr ""
+
+#: ../admin/option/option.php:132
+msgid "3600 = 1 hour"
+msgstr ""
+
+#: ../admin/option/option.php:151
+msgid "Logo Upload"
+msgstr ""
+
+#: ../admin/option/option.php:158
+msgid "Branding"
+msgstr ""
+
+#: ../admin/option/option.php:160
+msgid "Branding Showcase"
+msgstr ""
+
+#: ../admin/option/option.php:165
+msgid "Logo Uploader"
+msgstr ""
+
+#: ../admin/option/option.php:166
+msgid "Logo uploader, size 362x80 pixels"
+msgstr ""
+
+#: ../admin/option/option.php:172
+msgid "Retina Logo Uploader"
+msgstr ""
+
+#: ../admin/option/option.php:173 ../inc/settings.php:38
+msgid ""
+"A double sized version of your logo for retina displays. Must be used in "
+"addition to standard logo."
+msgstr ""
+
+#: ../admin/option/option.php:179
+msgid "Favicon Uploader"
+msgstr ""
+
+#: ../admin/option/option.php:180
+msgid "Favicon uploader, using the powerful WP Media Upload. 48x48 pixels"
+msgstr ""
+
+#: ../admin/option/option.php:195 ../admin/option/option.php:202
+#: ../inc/settings.php:18
+msgid "Layout"
+msgstr ""
+
+#: ../admin/option/option.php:204
+msgid "Layout Settings"
+msgstr ""
+
+#: ../admin/option/option.php:209 ../inc/settings.php:50
+msgid "Responsive Layout"
+msgstr ""
+
+#: ../admin/option/option.php:210 ../inc/settings.php:51
+msgid "Scale your layout for small screen devices."
+msgstr ""
+
+#: ../admin/option/option.php:216
+msgid "Layout Type"
+msgstr ""
+
+#: ../admin/option/option.php:220 ../inc/settings.php:56
+msgid "Boxed"
+msgstr ""
+
+#: ../admin/option/option.php:224 ../inc/settings.php:57
+msgid "Full Width"
+msgstr ""
+
+#: ../admin/option/option.php:234 ../inc/settings.php:62
+msgid "Masthead Layout"
+msgstr ""
+
+#: ../admin/option/option.php:238 ../admin/option/option.php:274
+msgid "Default"
+msgstr ""
+
+#: ../admin/option/option.php:242
+msgid "Logo in Menu"
+msgstr ""
+
+#: ../admin/option/option.php:252 ../inc/settings.php:67
+msgid "Masthead Menu"
+msgstr ""
+
+#: ../admin/option/option.php:256
+msgid "Default Menu"
+msgstr ""
+
+#: ../admin/option/option.php:260
+msgid "Empty Menu"
+msgstr ""
+
+#: ../admin/option/option.php:270 ../inc/settings.php:72
+msgid "Footer Layout"
+msgstr ""
+
+#: ../admin/option/option.php:294 ../admin/option/option.php:301
+#: ../admin/option/option.php:384 ../inc/settings.php:20
+msgid "Navigation"
+msgstr ""
+
+#: ../admin/option/option.php:303 ../admin/option/option.php:386
+msgid "Navigation Settings"
+msgstr ""
+
+#: ../admin/option/option.php:308 ../inc/settings.php:81
+msgid "Responsive Menu"
+msgstr ""
+
+#: ../admin/option/option.php:309 ../inc/settings.php:82
+msgid "Use a special responsive menu for small screen devices."
+msgstr ""
+
+#: ../admin/option/option.php:315 ../inc/settings.php:86
+msgid "Responsive Menu Text"
+msgstr ""
+
+#: ../admin/option/option.php:316 ../inc/settings.php:87
+msgid "The button used for the responsive menu."
+msgstr ""
+
+#: ../admin/option/option.php:322
+msgid "Sticky  Menu"
+msgstr ""
+
+#: ../admin/option/option.php:323 ../inc/settings.php:91
+msgid "Sticks the menu to the top of the screen when a user scrolls down."
+msgstr ""
+
+#: ../admin/option/option.php:329 ../inc/settings.php:94
+msgid "Search in Menu"
+msgstr ""
+
+#: ../admin/option/option.php:330 ../inc/settings.php:95
+msgid "Display a search in the main menu."
+msgstr ""
+
+#: ../admin/option/option.php:336 ../inc/settings.php:98
+msgid "Display Scroll To Top"
+msgstr ""
+
+#: ../admin/option/option.php:337 ../inc/settings.php:99
+msgid "Display a scroll-to-top button when a user scrolls down."
+msgstr ""
+
+#: ../admin/option/option.php:343 ../inc/settings.php:102
+msgid "Post Navigation"
+msgstr ""
+
+#: ../admin/option/option.php:344 ../inc/settings.php:103
+msgid "Display next/previous post navigation."
+msgstr ""
+
+#: ../admin/option/option.php:350 ../inc/settings.php:106
+msgid "Home Page Icon"
+msgstr ""
+
+#: ../admin/option/option.php:351 ../inc/settings.php:107
+msgid "Display home icon for home page menu links."
+msgstr ""
+
+#: ../admin/option/option.php:357 ../premium/inc/settings.php:16
+msgid "Mobile Menu Collapse"
+msgstr ""
+
+#: ../admin/option/option.php:358 ../premium/inc/settings.php:17
+msgid "The resolution when the menu collapses into a mobile navigation menu."
+msgstr ""
+
+#: ../admin/option/option.php:377 ../admin/option/option.php:396
+#: ../inc/settings.php:21
+msgid "Blog"
+msgstr ""
+
+#: ../admin/option/option.php:391 ../inc/settings.php:133
+msgid "Blog Archive Layout"
+msgstr ""
+
+#: ../admin/option/option.php:392 ../admin/option/option.php:434
+#: ../inc/settings.php:135 ../inc/settings.php:148
+msgid "Show the post author in blog archive pages."
+msgstr ""
+
+#: ../admin/option/option.php:400
+msgid "Circle Icons"
+msgstr ""
+
+#: ../admin/option/option.php:404
+msgid "Grid"
+msgstr ""
+
+#: ../admin/option/option.php:414 ../inc/settings.php:138
+msgid "Post Content"
+msgstr ""
+
+#: ../admin/option/option.php:415 ../inc/settings.php:143
+msgid ""
+"Choose how to display posts on post archive when using default blog layout."
+msgstr ""
+
+#: ../admin/option/option.php:419 ../inc/settings.php:140
+msgid "Full Post"
+msgstr ""
+
+#: ../admin/option/option.php:423 ../inc/settings.php:141
+msgid "Post Excerpt"
+msgstr ""
+
+#: ../admin/option/option.php:433 ../inc/settings.php:146
+msgid "Post Author"
+msgstr ""
+
+#: ../admin/option/option.php:440 ../inc/settings.php:151
+msgid "Post Date"
+msgstr ""
+
+#: ../admin/option/option.php:441
+msgid "Show the post date in blog archive pages."
+msgstr ""
+
+#: ../admin/option/option.php:447 ../inc/settings.php:156
+msgid "Featured Image"
+msgstr ""
+
+#: ../admin/option/option.php:448 ../inc/settings.php:158
+msgid "Show the featured image on a post single page."
+msgstr ""
+
+#: ../admin/option/option.php:454 ../inc/settings.php:161
+msgid "Featured Image Type"
+msgstr ""
+
+#: ../admin/option/option.php:455 ../inc/settings.php:166
+msgid "Size of the featured image in the blog post archives."
+msgstr ""
+
+#: ../admin/option/option.php:459 ../inc/settings.php:163
+#: ../premium/inc/widgets.php:36
+msgid "Large"
+msgstr ""
+
+#: ../admin/option/option.php:463 ../inc/settings.php:164
+msgid "Small Icon"
+msgstr ""
+
+#: ../admin/option/option.php:485
+msgid "Social Links"
+msgstr ""
+
+#: ../admin/option/option.php:491
+msgid "Social Media url"
+msgstr ""
+
+#: ../admin/option/option.php:496
+msgid "RSS Feed URL"
+msgstr ""
+
+#: ../admin/option/option.php:497 ../admin/option/option.php:504
+#: ../admin/option/option.php:511 ../admin/option/option.php:518
+#: ../admin/option/option.php:525 ../admin/option/option.php:532
+msgid "Only valid URL allowed here."
+msgstr ""
+
+#: ../admin/option/option.php:503
+msgid "Facebook URL"
+msgstr ""
+
+#: ../admin/option/option.php:510
+msgid "Twitter URL"
+msgstr ""
+
+#: ../admin/option/option.php:517
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../admin/option/option.php:524
+msgid "Youtube URL"
+msgstr ""
+
+#: ../admin/option/option.php:531
+msgid "Google+ URL"
+msgstr ""
+
+#: ../admin/option/option.php:540
+msgid "Analytics & CSS"
+msgstr ""
+
+#: ../admin/option/option.php:546
+msgid "Your Code"
+msgstr ""
+
+#: ../admin/option/option.php:551
+msgid "Custom CSS Code"
+msgstr ""
+
+#: ../admin/option/option.php:552
+msgid "Write your custom css here."
+msgstr ""
+
+#: ../admin/option/option.php:559
+msgid "Analytics or Other Script"
+msgstr ""
+
+#: ../admin/option/option.php:560
+msgid "All script will show before &lt;/body&gt;."
+msgstr ""
+
+#: ../admin/option/option.php:571
+msgid "Page Settings"
+msgstr ""
+
+#: ../admin/option/option.php:576
+msgid "Single Post"
+msgstr ""
+
+#: ../admin/option/option.php:582 ../admin/option/option.php:635
+msgid "Settings"
+msgstr ""
+
+#: ../admin/option/option.php:588 ../admin/option/option.php:641
+msgid "Comment System"
+msgstr ""
+
+#: ../admin/option/option.php:592 ../admin/option/option.php:645
+msgid "OFF"
+msgstr ""
+
+#: ../admin/option/option.php:596 ../admin/option/option.php:649
+msgid "Wordpress Default"
+msgstr ""
+
+#: ../admin/option/option.php:600 ../admin/option/option.php:653
+msgid "Disqus Comment"
+msgstr ""
+
+#: ../admin/option/option.php:604 ../admin/option/option.php:657
+msgid "Facebook Comment"
+msgstr ""
+
+#: ../admin/option/option.php:608 ../admin/option/option.php:661
+msgid "Google+ Comment"
+msgstr ""
+
+#: ../admin/option/option.php:618 ../admin/option/option.php:671
+msgid "Disqus Shortname"
+msgstr ""
+
+#: ../admin/option/option.php:619 ../admin/option/option.php:672
+msgid ""
+"Fill this with your Disqus Comment Shortname generated on Disqus Dashboard"
+msgstr ""
+
+#: ../admin/option/option.php:629
+msgid "Page Post"
+msgstr ""
+
+#: ../admin/servicebox.php:5
+msgid "Additional Info"
+msgstr ""
+
+#: ../admin/servicebox.php:12
+msgid "Service Icon"
+msgstr ""
+
+#: ../admin/servicebox.php:20
+msgid "Service Excerpt"
+msgstr ""
+
+#: ../admin/servicebox.php:25
+msgid "Readmore Button"
+msgstr ""
+
+#: ../admin/testibox.php:5
+msgid "Testimonial Info"
+msgstr ""
+
+#: ../admin/testibox.php:12
+msgid "Client Name"
+msgstr ""
+
+#: ../admin/testibox.php:17
+msgid "Client Website"
+msgstr ""
+
+#: ../admin/testibox.php:18
+msgid "<em>ex: atomlabs.me</em>"
+msgstr ""
+
+#: ../admin/testibox.php:25 ../admin/testibox.php:31
+msgid "Testimonial Content"
+msgstr ""
+
+#: ../admin/testibox.php:38 ../inc/custom-post.php:18
+#: ../inc/custom-post.php:19 ../inc/custom-post.php:29
+msgid "Pricing Table"
+msgstr ""
+
+#: ../admin/testibox.php:45
+msgid "Sub Title"
+msgstr ""
+
+#: ../admin/testibox.php:46
+msgid "Your Package Subtitle"
+msgstr ""
+
+#: ../admin/testibox.php:51
+msgid "Price"
+msgstr ""
+
+#: ../admin/testibox.php:52
+msgid "Your Package Price"
+msgstr ""
+
+#: ../admin/testibox.php:57 ../admin/testibox.php:58
+msgid "Package Subscription Length"
+msgstr ""
+
+#: ../admin/testibox.php:63 ../admin/testibox.php:64
+#: ../inc/widgets/widget-atom-calltoaction.php:19
+msgid "Button Text"
+msgstr ""
+
+#: ../admin/testibox.php:69 ../admin/testibox.php:70
+#: ../inc/widgets/widget-atom-calltoaction.php:21
+msgid "Button Link"
+msgstr ""
+
+#: ../admin/testibox.php:76
+msgid "Features"
+msgstr ""
+
+#: ../admin/testibox.php:81
+msgid "Value"
+msgstr ""
+
+#: ../admin/testibox.php:82
+msgid "Features Value"
+msgstr ""
+
+#: ../admin/testibox.php:94 ../admin/testibox.php:101
+msgid "Menu Icon"
+msgstr ""
+
+#: ../comments.php:34 ../comments.php:46
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:35 ../comments.php:47
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:36 ../comments.php:48
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:58
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-page.php:22 ../content-single.php:32 ../content.php:44
+#: ../templates/template-blank-page.php:26
+#: ../templates/template-full-notitle.php:26
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content-page.php:23 ../content-single.php:33 ../content.php:45
+#: ../templates/template-blank-page.php:27
+#: ../templates/template-full-notitle.php:27
+msgid "Pages:"
+msgstr ""
+
+#: ../content-single.php:21 ../content.php:28
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../extras/adminbar/adminbar.php:83
+msgid "dismiss"
+msgstr ""
+
+#: ../extras/adminbar/messages/message-background.php:1
+#, php-format
+msgid ""
+"Create custom tileable background images using our free <a href='%s' "
+"target='_blank'>background image generator</a>."
+msgstr ""
+
+#: ../extras/adminbar/messages/message-firstrun.php:3
+#, php-format
+msgid ""
+"Hi! I'm Greg from SiteOrigin. I hope you enjoy using %s. Sign up to <a "
+"href='%s' target='_blank'>our newsletter</a> if you'd like more free themes "
+"and exclusive offers."
+msgstr ""
+
+#: ../extras/metaslider/layouts/basic-left.php:6
+msgid "Basic Left"
+msgstr ""
+
+#: ../extras/metaslider/layouts/basic-left.php:9
+#: ../extras/metaslider/layouts/basic-right.php:8
+#: ../extras/metaslider/layouts/big-headline.php:8
+msgid "This Is The First Line"
+msgstr ""
+
+#: ../extras/metaslider/layouts/basic-left.php:9
+#: ../extras/metaslider/layouts/basic-right.php:8
+#: ../extras/metaslider/layouts/big-headline.php:8
+msgid "This is The Second"
+msgstr ""
+
+#: ../extras/metaslider/layouts/basic-left.php:16
+#: ../extras/metaslider/layouts/basic-right.php:15
+#: ../extras/metaslider/layouts/big-headline.php:15
+msgid "An Action Button"
+msgstr ""
+
+#: ../extras/metaslider/layouts/basic-right.php:5
+msgid "Basic Right"
+msgstr ""
+
+#: ../extras/metaslider/layouts/big-headline.php:5
+msgid "Big Headline"
+msgstr ""
+
+#: ../extras/metaslider/metaslider.php:13
+msgid "Prebuilt Slide Layouts"
+msgstr ""
+
+#: ../extras/metaslider/metaslider.php:14
+msgid ""
+"Are you sure you want to replace your current slide content with this "
+"prebuilt layout?"
+msgstr ""
+
+#: ../extras/metaslider/metaslider.php:35
+msgid "Prebuilt Layouts"
+msgstr ""
+
+#: ../extras/metaslider/metaslider.php:69 ../extras/settings/settings.php:406
+msgid "None"
+msgstr ""
+
+#: ../extras/metaslider/metaslider.php:71
+msgid "Demo Slider"
+msgstr ""
+
+#: ../extras/plugin-activation/plugin-activation.php:7
+#: ../extras/plugin-activation/plugin-activation.php:8
+msgid "Install Theme Plugin"
+msgstr ""
+
+#: ../extras/plugin-activation/plugin-activation.php:74
+#, php-format
+msgid "Installing %s"
+msgstr ""
+
+#: ../extras/premium/premium.php:12 ../extras/premium/tpl/upgrade-page.php:31
+msgid "Premium Upgrade"
+msgstr ""
+
+#: ../extras/premium/premium.php:59
+#, php-format
+msgid "Your Order Number Is [%s]"
+msgstr ""
+
+#: ../extras/premium/premium.php:63
+msgid "There was a problem contacting our validation servers."
+msgstr ""
+
+#: ../extras/premium/premium.php:64 ../extras/premium/premium.php:90
+msgid ""
+"Please try again later, or upgrade manually using the ZIP file we sent you."
+msgstr ""
+
+#: ../extras/premium/premium.php:68
+msgid "We've validated your order number."
+msgstr ""
+
+#: ../extras/premium/premium.php:71
+#, php-format
+msgid "You can update now, or later on your <a href=\"%s\">Themes page</a>."
+msgstr ""
+
+#: ../extras/premium/premium.php:75
+msgid "This update will add all the premium features."
+msgstr ""
+
+#: ../extras/premium/premium.php:80
+msgid ""
+"Updating this theme will lose any code customizations (CSS, PHP, Javascript, "
+"etc) you have made to the free version. You will not lose your content, "
+"images or settings. 'Cancel' to stop, 'OK' to update."
+msgstr ""
+
+#: ../extras/premium/premium.php:83
+msgid "Update Theme"
+msgstr ""
+
+#: ../extras/premium/premium.php:88
+msgid "We couldn't validate your order number."
+msgstr ""
+
+#: ../extras/premium/premium.php:89
+msgid "There might be a problem with our validation server."
+msgstr ""
+
+#: ../extras/premium/premium.php:134
+msgid "Get Additional Templates"
+msgstr ""
+
+#: ../extras/premium/premium.php:136
+#, php-format
+msgid "%s Premium includes additional templates"
+msgstr ""
+
+#: ../extras/premium/premium.php:172
+#, php-format
+msgid ""
+"Available in <strong>%s Premium</strong> - <strong class=\"upgrade\">Upgrade "
+"Now</strong>"
+msgstr ""
+
+#: ../extras/premium/premium.php:261
+msgid "Get Additional Customizations"
+msgstr ""
+
+#: ../extras/premium/premium.php:272
+#, php-format
+msgid "A Copy of %s Premium"
+msgstr ""
+
+#: ../extras/premium/premium.php:273
+#, php-format
+msgid ""
+"You get a copy of %s Premium, delivered instantly to your PayPal email "
+"address. This includes the same basic support we offer users of our free "
+"themes."
+msgstr ""
+
+#: ../extras/premium/premium.php:278
+msgid "Premium Support"
+msgstr ""
+
+#: ../extras/premium/premium.php:279
+msgid ""
+"This includes Premium email support from our support team for a single site. "
+"We'll help you as quickly as possible with all your setup and configuration "
+"questions."
+msgstr ""
+
+#: ../extras/premium/premium.php:284
+msgid "Advanced Premium Support"
+msgstr ""
+
+#: ../extras/premium/premium.php:285
+#, php-format
+msgid ""
+"We'll go the extra mile and help you with minor CSS customizations, plugin "
+"conflicts and anything else that falls outside standard %s Premium support."
+msgstr ""
+
+#: ../extras/premium/premium.php:290
+msgid "A Special Thank You"
+msgstr ""
+
+#: ../extras/premium/premium.php:291
+#, php-format
+msgid ""
+"Our highest level of support. If you need it, you'll get support directly "
+"from the developer of %s. We'll also include your name on our contributors "
+"list."
+msgstr ""
+
+#: ../extras/premium/tpl/upgrade-page.php:11
+#, php-format
+msgid ""
+"After you pay for %s Premium, we'll email you an order number to your "
+"<strong>PayPal email address</strong>. "
+msgstr ""
+
+#: ../extras/premium/tpl/upgrade-page.php:15
+#, php-format
+msgid ""
+"Use <a href='%s' target='_blank'>this form</a> if you don't receive your "
+"order number in the next 15 minutes. "
+msgstr ""
+
+#: ../extras/premium/tpl/upgrade-page.php:18
+msgid "To be sure, check your spam folder."
+msgstr ""
+
+#: ../extras/premium/tpl/upgrade-page.php:22
+msgid "Order Number"
+msgstr ""
+
+#: ../extras/premium/tpl/upgrade-page.php:28
+msgid "Already Paid?"
+msgstr ""
+
+#: ../extras/premium/tpl/upgrade-page.php:35
+msgid ""
+"The premium version of this theme is no longer available. If you need any "
+"help, please contact <a href='http://siteorigin.com/#support'>SiteOrigin "
+"support</a>."
+msgstr ""
+
+#: ../extras/premium/tpl/upgrade-page.php:72
+msgid "Buy Now"
+msgstr ""
+
+#: ../extras/premium/tpl/upgrade-page.php:78
+msgid ""
+"Although we appreciate and support all our premium users, our support staff "
+"prioritize orders of <strong>$15</strong> or more. Support on this order "
+"might take longer."
+msgstr ""
+
+#: ../extras/premium/tpl/upgrade-page.php:82
+#, php-format
+msgid "You choose the price, so you can pay what %s is worth to you."
+msgstr ""
+
+#: ../extras/premium/tpl/upgrade-page.php:86
+msgid "Building your site on a budget"
+msgstr ""
+
+#: ../extras/premium/tpl/upgrade-page.php:87
+msgid "A fair price for a powerful theme"
+msgstr ""
+
+#: ../extras/premium/tpl/upgrade-page.php:88
+msgid "Our sincere thanks"
+msgstr ""
+
+#: ../extras/premium/tpl/upgrade-page.php:89
+msgid "We'll go that extra mile for you"
+msgstr ""
+
+#: ../extras/premium/tpl/upgrade-page.php:90
+msgid "A huge contribution to its development"
+msgstr ""
+
+#: ../extras/premium/tpl/upgrade-page.php:91
+msgid "Custom"
+msgstr ""
+
+#: ../extras/premium/tpl/upgrade-page.php:94
+msgid "Please enable Javascript to change pricing"
+msgstr ""
+
+#: ../extras/premium/tpl/upgrade-page.php:98
+msgid "We offer a 60 day full refund if you're not happy with your purchase"
+msgstr ""
+
+#: ../extras/premium/tpl/upgrade-page.php:105
+#, php-format
+msgid "Your contribution will help fund new features in %s."
+msgstr ""
+
+#: ../extras/premium/tpl/upgrade-page.php:106
+#, php-format
+msgid "Find out more on our <a href=\"%s\" target=\"_blank\">roadmap</a>."
+msgstr ""
+
+#: ../extras/premium/tpl/upgrade-page.php:111
+msgid "Our User Feedback"
+msgstr ""
+
+#: ../extras/settings/message.php:3
+#, php-format
+msgid ""
+"I hope %s is working well for you! Sign up to <a href='%s' "
+"target='_blank'>our newsletter</a> if you'd like more free themes and "
+"goodies."
+msgstr ""
+
+#: ../extras/settings/page.php:4 ../extras/settings/settings.php:67
+#, php-format
+msgid "%s Theme Settings"
+msgstr ""
+
+#: ../extras/settings/settings.php:68
+msgid "Theme Settings"
+msgstr ""
+
+#: ../extras/settings/settings.php:82
+msgid "Please update to the latest version of WordPress to use theme settings."
+msgstr ""
+
+#: ../extras/settings/settings.php:276
+msgid "Enabled"
+msgstr ""
+
+#: ../extras/settings/settings.php:331
+#, php-format
+msgid ""
+"You need to <a href=\"%s\">upgrade</a> to WordPress 3.5 to use media fields"
+msgstr ""
+
+#: ../extras/settings/settings.php:349
+msgid "Choose Media"
+msgstr ""
+
+#: ../extras/settings/settings.php:350
+msgid "Set Media"
+msgstr ""
+
+#: ../extras/settings/settings.php:364
+#: ../vafpress-framework/classes/metabox.php:564
+#: ../vafpress-framework/classes/metabox/alchemy.php:493
+msgid "Remove"
+msgstr ""
+
+#: ../extras/settings/settings.php:377
+#, php-format
+msgid ""
+"Only available in <strong>%s Premium</strong> - <strong class=\"upgrade"
+"\">Upgrade Now</strong>"
+msgstr ""
+
+#: ../extras/settings/settings.php:394
+msgid "Select Images"
+msgstr ""
+
+#: ../extras/settings/settings.php:415
+msgid "Unknown Field Type"
+msgstr ""
+
+#: ../extras/settings/settings.php:487
+msgid "Settings saved."
+msgstr ""
+
+#: ../extras/settings/settings.php:504
+#, php-format
+msgid ""
+"Read %s's <a href='%s'>theme documentation</a> for help with these settings."
+msgstr ""
+
+#: ../extras/settings/settings.php:511
+msgid "Settings Help"
+msgstr ""
+
+#: ../extras/settings/settings.php:561
+msgid "Set Media File"
+msgstr ""
+
+#: ../fontawesome/icon-sections.php:4
+msgid "Web Application Icons"
+msgstr ""
+
+#: ../fontawesome/icon-sections.php:5
+msgid "Currency Icons"
+msgstr ""
+
+#: ../fontawesome/icon-sections.php:6
+msgid "Text Editor Icons"
+msgstr ""
+
+#: ../fontawesome/icon-sections.php:7
+msgid "Directional Icons"
+msgstr ""
+
+#: ../fontawesome/icon-sections.php:8
+msgid "Video Player Icons"
+msgstr ""
+
+#: ../fontawesome/icon-sections.php:9
+msgid "Brand Icons"
+msgstr ""
+
+#: ../fontawesome/icon-sections.php:10
+msgid "Medical Icons"
+msgstr ""
+
+#: ../functions.php:57 ../functions.php:58
+msgid "Theme Options"
+msgstr ""
+
+#: ../functions.php:94
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:152
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:161 ../premium/inc/customizer.php:32
+msgid "Footer"
+msgstr ""
+
+#: ../functions.php:226
+msgid "Back To Top"
+msgstr ""
+
+#: ../image.php:27
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../image.php:28
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../inc/authorbio.php:19
+msgid "About"
+msgstr ""
+
+#: ../inc/authorbio.php:20
+msgid "Reviewed By"
+msgstr ""
+
+#: ../inc/authorbio.php:21
+msgid "This Is Article About"
+msgstr ""
+
+#: ../inc/authorbio.php:21
+msgid "was posted on"
+msgstr ""
+
+#: ../inc/authorbio.php:21
+msgid "have"
+msgstr ""
+
+#: ../inc/authorbio.php:21
+msgid "stars rating"
+msgstr ""
+
+#: ../inc/custom-function.php:246
+msgid "Wide Orange"
+msgstr ""
+
+#: ../inc/custom-function.php:247
+msgid "Wide Blue"
+msgstr ""
+
+#: ../inc/custom-post.php:20 ../inc/custom-post.php:66
+#: ../inc/custom-post.php:113 ../inc/custom-post.php:160
+#: ../inc/custom-post.php:207 ../inc/custom-post.php:256
+msgid "Add New"
+msgstr ""
+
+#: ../inc/custom-post.php:21
+msgid "Add New Pricing Table"
+msgstr ""
+
+#: ../inc/custom-post.php:22
+msgid "Edit Pricing Table"
+msgstr ""
+
+#: ../inc/custom-post.php:23
+msgid "New Pricing Table"
+msgstr ""
+
+#: ../inc/custom-post.php:24
+msgid "View Pricing Table"
+msgstr ""
+
+#: ../inc/custom-post.php:25
+msgid "Search Pricing Table"
+msgstr ""
+
+#: ../inc/custom-post.php:26
+msgid "No pricing found"
+msgstr ""
+
+#: ../inc/custom-post.php:27
+msgid "No pricing table found in Trash"
+msgstr ""
+
+#: ../inc/custom-post.php:28
+msgid "Parent Pricing Table:"
+msgstr ""
+
+#: ../inc/custom-post.php:64 ../inc/custom-post.php:65
+#: ../inc/custom-post.php:75
+msgid "Service"
+msgstr ""
+
+#: ../inc/custom-post.php:67
+msgid "Add New Service"
+msgstr ""
+
+#: ../inc/custom-post.php:68
+msgid "Edit Service"
+msgstr ""
+
+#: ../inc/custom-post.php:69
+msgid "New Service"
+msgstr ""
+
+#: ../inc/custom-post.php:70
+msgid "View Service"
+msgstr ""
+
+#: ../inc/custom-post.php:71
+msgid "Search Service"
+msgstr ""
+
+#: ../inc/custom-post.php:72
+msgid "No service found"
+msgstr ""
+
+#: ../inc/custom-post.php:73
+msgid "No service found in Trash"
+msgstr ""
+
+#: ../inc/custom-post.php:74
+msgid "Parent Service:"
+msgstr ""
+
+#: ../inc/custom-post.php:111 ../inc/custom-post.php:112
+#: ../inc/custom-post.php:122
+msgid "Portfolio"
+msgstr ""
+
+#: ../inc/custom-post.php:114
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../inc/custom-post.php:115
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../inc/custom-post.php:116
+msgid "New Portfolio"
+msgstr ""
+
+#: ../inc/custom-post.php:117
+msgid "View Portfolio"
+msgstr ""
+
+#: ../inc/custom-post.php:118
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../inc/custom-post.php:119
+msgid "No portfolio found"
+msgstr ""
+
+#: ../inc/custom-post.php:120
+msgid "No portfolio found in Trash"
+msgstr ""
+
+#: ../inc/custom-post.php:121
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: ../inc/custom-post.php:158 ../inc/custom-post.php:159
+#: ../inc/custom-post.php:169
+msgid "Testimonial"
+msgstr ""
+
+#: ../inc/custom-post.php:161
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../inc/custom-post.php:162
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../inc/custom-post.php:163
+msgid "New Testimonial"
+msgstr ""
+
+#: ../inc/custom-post.php:164
+msgid "View Testimonial"
+msgstr ""
+
+#: ../inc/custom-post.php:165
+msgid "Search Testimonial"
+msgstr ""
+
+#: ../inc/custom-post.php:166
+msgid "No testimonial found"
+msgstr ""
+
+#: ../inc/custom-post.php:167
+msgid "No testimonial found in Trash"
+msgstr ""
+
+#: ../inc/custom-post.php:168
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: ../inc/custom-post.php:205 ../inc/custom-post.php:206
+#: ../inc/custom-post.php:216
+msgid "Client"
+msgstr ""
+
+#: ../inc/custom-post.php:208
+msgid "Add New Client"
+msgstr ""
+
+#: ../inc/custom-post.php:209
+msgid "Edit Client"
+msgstr ""
+
+#: ../inc/custom-post.php:210
+msgid "New Client"
+msgstr ""
+
+#: ../inc/custom-post.php:211
+msgid "View Client"
+msgstr ""
+
+#: ../inc/custom-post.php:212
+msgid "Search Client"
+msgstr ""
+
+#: ../inc/custom-post.php:213
+msgid "No client found"
+msgstr ""
+
+#: ../inc/custom-post.php:214
+msgid "No client found in Trash"
+msgstr ""
+
+#: ../inc/custom-post.php:215
+msgid "Parent Client:"
+msgstr ""
+
+#: ../inc/custom-post.php:254 ../inc/custom-post.php:255
+#: ../inc/custom-post.php:265
+msgid "Gallery"
+msgstr ""
+
+#: ../inc/custom-post.php:257 ../inc/custom-post.php:301
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../inc/custom-post.php:258 ../inc/custom-post.php:299
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../inc/custom-post.php:259
+msgid "New Gallery"
+msgstr ""
+
+#: ../inc/custom-post.php:260
+msgid "View Gallery"
+msgstr ""
+
+#: ../inc/custom-post.php:261
+msgid "Search Gallery"
+msgstr ""
+
+#: ../inc/custom-post.php:262
+msgid "No gallery found"
+msgstr ""
+
+#: ../inc/custom-post.php:263
+msgid "No gallery found in Trash"
+msgstr ""
+
+#: ../inc/custom-post.php:264 ../inc/custom-post.php:298
+msgid "Parent Gallery:"
+msgstr ""
+
+#: ../inc/custom-post.php:292 ../inc/custom-post.php:293
+#: ../inc/custom-post.php:306
+msgid "Gallery Folder"
+msgstr ""
+
+#: ../inc/custom-post.php:294
+msgid "Search Gallery Folder"
+msgstr ""
+
+#: ../inc/custom-post.php:295
+msgid "Popular Gallery Folder"
+msgstr ""
+
+#: ../inc/custom-post.php:296
+msgid "All Gallery Folder"
+msgstr ""
+
+#: ../inc/custom-post.php:297
+msgid "Parent Gallery Folder"
+msgstr ""
+
+#: ../inc/custom-post.php:300
+msgid "Update Gallery"
+msgstr ""
+
+#: ../inc/custom-post.php:302
+msgid "New Gallery Folder"
+msgstr ""
+
+#: ../inc/custom-post.php:303
+msgid "Separate gallery folder with commas"
+msgstr ""
+
+#: ../inc/custom-post.php:304
+msgid "Add or remove Gallery Folder"
+msgstr ""
+
+#: ../inc/custom-post.php:305
+msgid "Choose from most used Gallery Folder"
+msgstr ""
+
+#: ../inc/extras.php:76
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/fungsi/parsers.php:42 ../inc/fungsi/parsers.php:72
+#: ../inc/fungsi/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../inc/fungsi/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../inc/fungsi/parsers.php:84 ../inc/fungsi/parsers.php:89
+#: ../inc/fungsi/parsers.php:279 ../inc/fungsi/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../inc/fungsi/update.php:39
+msgid "Activate Theme"
+msgstr ""
+
+#: ../inc/fungsi/update.php:49
+msgid "Your Registered Email"
+msgstr ""
+
+#: ../inc/fungsi/update.php:53
+msgid "Enter your Registered Email"
+msgstr ""
+
+#: ../inc/fungsi/update.php:60
+msgid "Secret Key"
+msgstr ""
+
+#: ../inc/fungsi/update.php:64
+msgid "Dont Change this"
+msgstr ""
+
+#: ../inc/fungsi/update.php:69
+msgid "Activation Code"
+msgstr ""
+
+#: ../inc/fungsi/update.php:73
+msgid ""
+"Now Get This Activation Code in <strong><a href=\"http://key.atomlabs.me\" "
+"target=\"_blank\">key.atomlabs.me</a></strong>"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:128
+#: ../inc/fungsi/wordpress-importer.php:137
+#: ../inc/fungsi/wordpress-importer.php:188
+#: ../inc/fungsi/wordpress-importer.php:192
+#: ../inc/fungsi/wordpress-importer.php:201
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:129
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:172
+msgid "All done."
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:172
+msgid "Have fun!"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:173
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:193
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:209
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:234
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:260
+msgid "Assign Authors"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:261
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:263
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:273
+msgid "Import Attachments"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:276
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:293
+msgid "Import author:"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:304
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:307
+msgid "as a new user:"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:315
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:317
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:318
+msgid "- Select -"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:368
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:419
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:459
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:505
+#: ../inc/fungsi/wordpress-importer.php:646
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:531
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:553
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:612
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:777
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:784
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:847
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:860
+msgid "Invalid file type"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:904
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:910
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:917
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:922
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:928
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:1027
+msgid "Import WordPress"
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:1034
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:1049
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../inc/fungsi/wordpress-importer.php:1050
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../inc/gallery.php:121
+msgid "Slider"
+msgstr ""
+
+#: ../inc/metaslider.php:11
+msgid "Vantage (Flex)"
+msgstr ""
+
+#: ../inc/metaslider.php:71
+msgid "Page Meta Slider"
+msgstr ""
+
+#: ../inc/metaslider.php:80
+msgid "Display Page Metaslider"
+msgstr ""
+
+#: ../inc/panels.php:17
+msgid "Demo Site Home Page"
+msgstr ""
+
+#: ../inc/panels.php:22
+msgid ""
+"<span>AtomLux is a clean and fully responsive incredible Template.</span>\n"
+"<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis "
+"praesentium voluptatum deleniti atque corrupti quos dolores et quas "
+"molestias excepturi  vehicula sem ut volutpat. Ut non libero magna fusce "
+"condimentum eleifend enim a feugiat.</p>"
+msgstr ""
+
+#: ../inc/panels.php:24 ../inc/widgets/widget-atom-calltoaction.php:52
+msgid "PURCHASE"
+msgstr ""
+
+#: ../inc/panels.php:85
+msgid "OUR FACILITIES"
+msgstr ""
+
+#: ../inc/panels.php:303
+msgid "Wide Grey"
+msgstr ""
+
+#: ../inc/panels.php:311
+msgid "Top Border Color"
+msgstr ""
+
+#: ../inc/panels.php:316
+msgid "Bottom Border Color"
+msgstr ""
+
+#: ../inc/panels.php:321
+msgid "Background Color"
+msgstr ""
+
+#: ../inc/panels.php:326
+msgid "Background Image"
+msgstr ""
+
+#: ../inc/panels.php:331
+msgid "Repeat Background Image"
+msgstr ""
+
+#: ../inc/panels.php:336
+msgid "No Bottom Margin"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:155
+#: ../inc/plugins/init-plugin.php:106
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:156
+#: ../inc/plugins/init-plugin.php:107
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:157
+#: ../inc/plugins/init-plugin.php:108
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:169
+#: ../inc/plugins/init-plugin.php:120
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:171
+#: ../inc/plugins/class-tgm-plugin-activation.php:1840
+#: ../inc/plugins/init-plugin.php:121
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1950
+#: ../inc/plugins/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1950
+#: ../inc/plugins/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/plugins/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/plugins/init-plugin.php:109
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/plugins/init-plugin.php:122
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../inc/settings.php:17
+msgid "Logo"
+msgstr ""
+
+#: ../inc/settings.php:19
+msgid "Home"
+msgstr ""
+
+#: ../inc/settings.php:22
+msgid "Social"
+msgstr ""
+
+#: ../inc/settings.php:29
+msgid "Logo Image"
+msgstr ""
+
+#: ../inc/settings.php:30 ../inc/settings.php:36
+msgid "Choose Image"
+msgstr ""
+
+#: ../inc/settings.php:31 ../inc/settings.php:37
+msgid "Set Logo"
+msgstr ""
+
+#: ../inc/settings.php:32
+msgid "Your own custom logo."
+msgstr ""
+
+#: ../inc/settings.php:35
+msgid "Retina Logo"
+msgstr ""
+
+#: ../inc/settings.php:42
+msgid "Header Text"
+msgstr ""
+
+#: ../inc/settings.php:43
+msgid "Text that appears to the right of your logo."
+msgstr ""
+
+#: ../inc/settings.php:54
+msgid "Layout Bound"
+msgstr ""
+
+#: ../inc/settings.php:59
+msgid "Change the width of the bounding box."
+msgstr ""
+
+#: ../inc/settings.php:64
+msgid "Change which header area layout you're using."
+msgstr ""
+
+#: ../inc/settings.php:69
+msgid "Choose how the masthead menu is displayed."
+msgstr ""
+
+#: ../inc/settings.php:74
+msgid "Change which footer area layout you're using."
+msgstr ""
+
+#: ../inc/settings.php:90
+msgid "Sticky Menu"
+msgstr ""
+
+#: ../inc/settings.php:117
+#, php-format
+msgid ""
+"This theme supports <a href=\"%s\" target=\"_blank\">Meta Slider</a>. <a "
+"href=\"%s\">Install it</a> for free to create beautiful responsive sliders - "
+"<a href=\"%s\" target=\"_blank\">More Info</a>"
+msgstr ""
+
+#: ../inc/settings.php:125
+msgid "Stretch"
+msgstr ""
+
+#: ../inc/settings.php:147 ../inc/settings.php:152 ../inc/settings.php:157
+msgid "Display"
+msgstr ""
+
+#: ../inc/settings.php:153
+msgid "Show the post date."
+msgstr ""
+
+#: ../inc/settings.php:177
+msgid "Post Sharing"
+msgstr ""
+
+#: ../inc/settings.php:178
+msgid "Show icons to share your posts on Facebook, Twitter and Google+."
+msgstr ""
+
+#: ../inc/settings.php:182
+msgid "Twitter Handle"
+msgstr ""
+
+#: ../inc/settings.php:183
+msgid "This handle will be recommended after a user shares one of your posts."
+msgstr ""
+
+#: ../inc/settings.php:211
+msgid "Call me! Maybe?"
+msgstr ""
+
+#: ../inc/template-tags.php:38
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:73
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:73
+msgid "(Edit)"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: ../inc/template-tags.php:90
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:95
+msgid "Edit"
+msgstr ""
+
+#: ../inc/template-tags.php:100
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/template-tags.php:121
+#, php-format
+msgid ""
+"Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class="
+"\"entry-date\" datetime=\"%3$s\">%4$s</time></a>"
+msgstr ""
+
+#: ../inc/template-tags.php:122
+#, php-format
+msgid ""
+"<span class=\"byline\"> by <span class=\"author vcard\"><a class=\"url fn n"
+"\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+
+#: ../inc/template-tags.php:133
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../inc/template-tags.php:162
+#, php-format
+msgid "%s Logo"
+msgstr ""
+
+#: ../inc/template-tags.php:227
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:231
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:236
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:241
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:245
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:249
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:253
+msgid "Archives"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: ../inc/template-tags.php:269 ../inc/template-tags.php:272
+msgid ", "
+msgstr ""
+
+#: ../inc/template-tags.php:277
+#, php-format
+msgid "<strong>Tagged</strong> %2$s."
+msgstr ""
+
+#: ../inc/template-tags.php:285
+#, php-format
+msgid "Posted in %1$s and tagged %2$s."
+msgstr ""
+
+#: ../inc/template-tags.php:287
+#, php-format
+msgid "Posted in %1$s."
+msgstr ""
+
+#: ../inc/widgets.php:16
+msgid "Circle Icon"
+msgstr ""
+
+#: ../inc/widgets.php:17
+msgid "An icon in a circle with some text beneath it"
+msgstr ""
+
+#: ../inc/widgets.php:63
+msgid "More Info"
+msgstr ""
+
+#: ../inc/widgets.php:98 ../inc/widgets.php:282
+#: ../inc/widgets/widget-atom-testimonials.php:17
+msgid "Title"
+msgstr ""
+
+#: ../inc/widgets.php:102 ../premium/inc/customizer.php:388
+msgid "Text"
+msgstr ""
+
+#: ../inc/widgets.php:106
+msgid "Icon"
+msgstr ""
+
+#: ../inc/widgets.php:119
+msgid "Icon Background Color"
+msgstr ""
+
+#: ../inc/widgets.php:121
+msgid "A hex color"
+msgstr ""
+
+#: ../inc/widgets.php:124
+msgid "Circle Background Image URL"
+msgstr ""
+
+#: ../inc/widgets.php:128
+msgid "Icon Position"
+msgstr ""
+
+#: ../inc/widgets.php:137 ../inc/widgets.php:286
+msgid "Icon Size"
+msgstr ""
+
+#: ../inc/widgets.php:145
+msgid "More Text"
+msgstr ""
+
+#: ../inc/widgets.php:149
+msgid "More URL"
+msgstr ""
+
+#: ../inc/widgets.php:155
+msgid "Link title and icon to \"More URL\""
+msgstr ""
+
+#: ../inc/widgets.php:162
+msgid "Show Box Container"
+msgstr ""
+
+#: ../inc/widgets.php:181
+msgid "Vantage Headline"
+msgstr ""
+
+#: ../inc/widgets.php:182
+msgid "A lovely big headline."
+msgstr ""
+
+#: ../inc/widgets.php:206
+msgid "Headline"
+msgstr ""
+
+#: ../inc/widgets.php:210
+msgid "Sub Headline"
+msgstr ""
+
+#: ../inc/widgets.php:232
+msgid "Vantage Social Media"
+msgstr ""
+
+#: ../inc/widgets.php:234
+msgid "Add nice little icons that link out to your social media profiles."
+msgstr ""
+
+#: ../inc/widgets.php:239
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/widgets.php:240
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/widgets.php:241
+msgid "Google Plus"
+msgstr ""
+
+#: ../inc/widgets.php:242
+msgid "RSS"
+msgstr ""
+
+#: ../inc/widgets.php:277
+msgid "Medium"
+msgstr ""
+
+#: ../inc/widgets.php:307
+msgid "Open in New Window"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-calltoaction.php:17
+#: ../inc/widgets/widget-atom-client.php:20
+#: ../inc/widgets/widget-atom-gallery.php:21
+#: ../inc/widgets/widget-atom-portfolio.php:22
+msgid "Description"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-calltoaction.php:48
+msgid ""
+"<span>AtomLux is a clean and fully responsive incredible Template.</span>\n"
+"                <p>At vero eos et accusamus et iusto odio dignissimos "
+"ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos "
+"dolores et quas molestias excepturi  vehicula sem ut volutpat. Ut non libero "
+"magna fusce condimentum eleifend enim a feugiat.</p>"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-calltoaction.php:52
+msgid "#"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-client.php:18
+msgid "Client Title"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-client.php:22
+msgid "Client Order by:"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-client.php:36
+#: ../inc/widgets/widget-atom-gallery.php:37
+#: ../inc/widgets/widget-atom-testimonials.php:33
+msgid "How many to show?"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-client.php:70
+msgid "OUR BELOVED CLIENT"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-facebook.php:57
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-facebook.php:60
+msgid "URL:"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-facebook.php:62
+msgid "Fill with your facebook URL fanpage"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-facebook.php:63
+msgid "Width:"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-facebook.php:65
+msgid "Fill width like box"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-facebook.php:68
+msgid "Height:"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-facebook.php:70
+msgid "Fill height like box"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-facebook.php:72
+msgid "Colorscheme:"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-facebook.php:74
+msgid "light"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-facebook.php:75
+msgid "dark"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-facebook.php:78
+msgid "Select likebox colorscheme."
+msgstr ""
+
+#: ../inc/widgets/widget-atom-facebook.php:80
+msgid "Show face:"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-facebook.php:82
+msgid "Check for show face"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-facebook.php:83
+msgid "Show stream:"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-facebook.php:85
+msgid "Check for show stream"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-facebook.php:86
+msgid "Show header:"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-facebook.php:88
+msgid "Check for show header"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-gallery.php:19
+msgid "Gallery Title"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-gallery.php:23
+msgid "Gallery Order by:"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-gallery.php:39
+msgid "Gallery Album:"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-gallery.php:88
+msgid "GALLERY"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-portfolio.php:20
+msgid "Portfolio Title"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-portfolio.php:24
+msgid "Choose Portfolio Page:"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-portfolio.php:40
+msgid "Portfolio Button Text"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-portfolio.php:42
+msgid "Portfolio Order by:"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-portfolio.php:93
+msgid "OUR WORKS"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-portfolio.php:113
+msgid "View"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-portfolio.php:128
+msgid "SEE ALL OUR WORKS"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-pricing.php:23
+msgid "Color:"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-pricing.php:26
+msgid "Pricing Table 1:"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-pricing.php:29
+#: ../inc/widgets/widget-atom-pricing.php:46
+#: ../inc/widgets/widget-atom-pricing.php:59
+#: ../inc/widgets/widget-atom-pricing.php:72
+msgid "none"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-pricing.php:43
+msgid "Pricing Table 2:"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-pricing.php:56
+msgid "Pricing Table 3:"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-pricing.php:69
+msgid "Pricing Table 4:"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-pricing.php:82
+msgid "Featured Pricing Table:"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-pricing.php:87
+msgid "Pricing Table "
+msgstr ""
+
+#: ../inc/widgets/widget-atom-service.php:12
+msgid "Choose Service:"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-testimonials.php:19
+msgid "Testimonial Order by:"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-testimonials.php:67
+msgid "WHAT THEY SAY"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-webinfo.php:38
+msgid "Welcome text"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-webinfo.php:41
+msgid "Title Contact"
+msgstr ""
+
+#: ../inc/widgets/widget-atom-webinfo.php:43
+msgid "Contact/OptIn Code"
+msgstr ""
+
+#: ../no-results.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: ../no-results.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../no-results.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../no-results.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../premium/extras/css/css.php:7 ../premium/extras/css/css.php:25
+#: ../premium/extras/css/css.php:65
+msgid "Custom CSS"
+msgstr ""
+
+#: ../premium/extras/css/css.php:27
+#, php-format
+msgid "%s adds any custom CSS you enter here into your site's header. "
+msgstr ""
+
+#: ../premium/extras/css/css.php:28
+msgid ""
+"These changes will persist across updates so it's best to make all your "
+"changes here. "
+msgstr ""
+
+#: ../premium/extras/css/css.php:29
+#, php-format
+msgid ""
+"Contact <a href='%s' target='_blank'>SiteOrigin Support</a> for help with "
+"making edits. "
+msgstr ""
+
+#: ../premium/extras/css/css.php:76
+#, php-format
+msgid "Changes apply to %s and its child themes"
+msgstr ""
+
+#: ../premium/extras/mobilenav/mobilenav.php:12
+#: ../premium/extras/mobilenav/mobilenav.php:52
+#: ../premium/inc/customizer.php:17
+msgid "Menu"
+msgstr ""
+
+#: ../premium/extras/mobilenav/mobilenav.php:13
+#: ../premium/extras/mobilenav/mobilenav.php:53
+msgid "Back"
+msgstr ""
+
+#: ../premium/extras/mobilenav/mobilenav.php:14
+#: ../premium/extras/mobilenav/mobilenav.php:54
+msgid "Close"
+msgstr ""
+
+#: ../premium/extras/mobilenav/mobilenav.php:19 ../searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: ../premium/extras/share/share.php:15
+msgid "like"
+msgstr ""
+
+#: ../premium/inc/customizer.php:7
+msgid "Fonts"
+msgstr ""
+
+#: ../premium/inc/customizer.php:22
+msgid "Widgets"
+msgstr ""
+
+#: ../premium/inc/customizer.php:27
+msgid "Page"
+msgstr ""
+
+#: ../premium/inc/customizer.php:45
+msgid "Body Font"
+msgstr ""
+
+#: ../premium/inc/customizer.php:52
+msgid "Site Title Font"
+msgstr ""
+
+#: ../premium/inc/customizer.php:59
+msgid "Heading Font"
+msgstr ""
+
+#: ../premium/inc/customizer.php:68
+msgid "Page Title Size"
+msgstr ""
+
+#: ../premium/inc/customizer.php:77
+msgid "Page Title Color"
+msgstr ""
+
+#: ../premium/inc/customizer.php:85
+msgid "Content Size"
+msgstr ""
+
+#: ../premium/inc/customizer.php:94
+msgid "Content Color"
+msgstr ""
+
+#: ../premium/inc/customizer.php:102
+msgid "Content Heading Color"
+msgstr ""
+
+#: ../premium/inc/customizer.php:114
+msgid "Header Padding"
+msgstr ""
+
+#: ../premium/inc/customizer.php:123
+msgid "Center Logo"
+msgstr ""
+
+#: ../premium/inc/customizer.php:130
+msgid "Content Link Color"
+msgstr ""
+
+#: ../premium/inc/customizer.php:139
+msgid "Content Link Hover Color"
+msgstr ""
+
+#: ../premium/inc/customizer.php:154
+msgid "Background"
+msgstr ""
+
+#: ../premium/inc/customizer.php:162
+msgid "Text Color"
+msgstr ""
+
+#: ../premium/inc/customizer.php:170
+msgid "Second Level Background"
+msgstr ""
+
+#: ../premium/inc/customizer.php:178
+msgid "Second Level Text"
+msgstr ""
+
+#: ../premium/inc/customizer.php:186
+msgid "Hover Background"
+msgstr ""
+
+#: ../premium/inc/customizer.php:195
+msgid "Hover Text"
+msgstr ""
+
+#: ../premium/inc/customizer.php:204
+msgid "Second Level Hover"
+msgstr ""
+
+#: ../premium/inc/customizer.php:213
+msgid "Second Level Hover Text"
+msgstr ""
+
+#: ../premium/inc/customizer.php:222
+msgid "Icon Color"
+msgstr ""
+
+#: ../premium/inc/customizer.php:230
+msgid "Icon Hover Color"
+msgstr ""
+
+#: ../premium/inc/customizer.php:239
+msgid "Current Page Background"
+msgstr ""
+
+#: ../premium/inc/customizer.php:248
+msgid "Current Page Text"
+msgstr ""
+
+#: ../premium/inc/customizer.php:257
+msgid "Search Icon Background"
+msgstr ""
+
+#: ../premium/inc/customizer.php:265
+msgid "Search Input Background"
+msgstr ""
+
+#: ../premium/inc/customizer.php:273
+msgid "Search Input Text"
+msgstr ""
+
+#: ../premium/inc/customizer.php:281
+msgid "Menu Item Padding"
+msgstr ""
+
+#: ../premium/inc/customizer.php:290
+msgid "Header Widget Menu Border Color"
+msgstr ""
+
+#: ../premium/inc/customizer.php:302
+msgid "Circle Icon Widget Background"
+msgstr ""
+
+#: ../premium/inc/customizer.php:310
+msgid "Circle Icon Widget Icon"
+msgstr ""
+
+#: ../premium/inc/customizer.php:321
+msgid "Masthead Background"
+msgstr ""
+
+#: ../premium/inc/customizer.php:329
+msgid "Masthead Background Image"
+msgstr ""
+
+#: ../premium/inc/customizer.php:337
+msgid "Page Background"
+msgstr ""
+
+#: ../premium/inc/customizer.php:345
+msgid "Page Background Image"
+msgstr ""
+
+#: ../premium/inc/customizer.php:353
+msgid "Image Shadow and Rounding"
+msgstr ""
+
+#: ../premium/inc/customizer.php:364
+msgid "Footer Background"
+msgstr ""
+
+#: ../premium/inc/customizer.php:372
+msgid "Footer Background Image"
+msgstr ""
+
+#: ../premium/inc/customizer.php:380
+msgid "Headings"
+msgstr ""
+
+#: ../premium/inc/customizer.php:396
+msgid "Links"
+msgstr ""
+
+#: ../premium/inc/customizer.php:404
+msgid "Site Info Text"
+msgstr ""
+
+#: ../premium/inc/customizer.php:412
+msgid "Site Info Link"
+msgstr ""
+
+#: ../premium/inc/widgets.php:12
+msgid "LinkedIn"
+msgstr ""
+
+#: ../premium/inc/widgets.php:13
+msgid "Dribbble"
+msgstr ""
+
+#: ../premium/inc/widgets.php:14
+msgid "Flickr"
+msgstr ""
+
+#: ../premium/inc/widgets.php:15
+msgid "Instagram"
+msgstr ""
+
+#: ../premium/inc/widgets.php:16
+msgid "Pinterest"
+msgstr ""
+
+#: ../premium/inc/widgets.php:17
+msgid "Skype"
+msgstr ""
+
+#: ../premium/inc/widgets.php:18
+msgid "YouTube"
+msgstr ""
+
+#: ../premium/inc/widgets.php:19
+msgid "GitHub"
+msgstr ""
+
+#: ../premium/inc/widgets.php:35
+msgid "Small"
+msgstr ""
+
+#: ../search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../vafpress-framework/bootstrap.php:88
+#: ../vafpress-framework/classes/option.php:364
+#: ../vafpress-framework/classes/option.php:389
+msgid "Successful"
+msgstr ""
+
+#: ../vafpress-framework/bootstrap.php:99
+msgid "Unauthorized function"
+msgstr ""
+
+#: ../vafpress-framework/classes/metabox.php:35
+msgid "[Development Mode] "
+msgstr ""
+
+#: ../vafpress-framework/classes/metabox.php:586
+#: ../vafpress-framework/classes/metabox/alchemy.php:515
+msgid "Add More"
+msgstr ""
+
+#: ../vafpress-framework/classes/option.php:47
+#: ../vafpress-framework/classes/option.php:48
+msgid "Vafpress Options"
+msgstr ""
+
+#: ../vafpress-framework/classes/option.php:61
+msgid "Option Key is required"
+msgstr ""
+
+#: ../vafpress-framework/classes/option.php:63
+msgid "Template Array/File is required"
+msgstr ""
+
+#: ../vafpress-framework/classes/option.php:65
+msgid "Page Slug is required"
+msgstr ""
+
+#: ../vafpress-framework/classes/option.php:167
+msgid ""
+"Development Mode is Active, options' values won't be saved into database."
+msgstr ""
+
+#: ../vafpress-framework/classes/option.php:306
+msgid "Can not be empty"
+msgstr ""
+
+#: ../vafpress-framework/classes/option.php:331
+msgid "Invalid data"
+msgstr ""
+
+#: ../vafpress-framework/classes/option.php:394
+msgid "Unverified Access"
+msgstr ""
+
+#: ../vafpress-framework/classes/option.php:460
+msgid "Invalid template supplied"
+msgstr ""
+
+#: ../vafpress-framework/classes/option.php:473
+msgid "Utility"
+msgstr ""
+
+#: ../vafpress-framework/classes/option.php:479
+#: ../vafpress-framework/views/option/restore.php:13
+msgid "Restore Default"
+msgstr ""
+
+#: ../vafpress-framework/classes/option.php:488
+msgid "Export/Import"
+msgstr ""
+
+#: ../vafpress-framework/classes/option/control/set.php:359
+msgid "Saving successful"
+msgstr ""
+
+#: ../vafpress-framework/classes/option/control/set.php:370
+msgid "Saving failed"
+msgstr ""
+
+#: ../vafpress-framework/classes/option/control/set.php:376
+msgid "No changes made"
+msgstr ""
+
+#: ../vafpress-framework/classes/shortcodegenerator.php:260
+msgid "Insert"
+msgstr ""
+
+#: ../vafpress-framework/classes/shortcodegenerator.php:261
+msgid "Cancel"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:13
+msgid "Value needs to be Alphabet"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:14
+msgid "Value needs to be Alphanumeric"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:15
+msgid "Value needs to be Numeric"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:16
+msgid "Value needs to be Valid Email"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:17
+msgid "Value needs to be Valid URL"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:18
+msgid "Length needs to be less than {0} characters"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:19
+msgid "Length needs to be more than {0} characters"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:20
+msgid "Select no more than {0} items"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:21
+msgid "Select at least {0} items"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:22
+msgid "This is required"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:29
+msgid "Import succeed, option page will be refreshed.."
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:30
+msgid "Import failed"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:31
+msgid "Export succeed, copy the JSON formatted options"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:32
+msgid "Export failed"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:33
+msgid "Restoration succeed, option page will be refreshed.."
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:34
+msgid "Options identical to default"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:35
+msgid "Restoration failed"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:43
+msgid "Select option(s)"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:45
+msgid "Select an Icon"
+msgstr ""
+
+#: ../vafpress-framework/views/control/upload.php:5
+msgid "Choose File"
+msgstr ""
+
+#: ../vafpress-framework/views/option/impexp.php:4
+#: ../vafpress-framework/views/option/impexp.php:14
+msgid "Import"
+msgstr ""
+
+#: ../vafpress-framework/views/option/impexp.php:7
+msgid "Import Options"
+msgstr ""
+
+#: ../vafpress-framework/views/option/impexp.php:27
+#: ../vafpress-framework/views/option/impexp.php:37
+msgid "Export"
+msgstr ""
+
+#: ../vafpress-framework/views/option/impexp.php:30
+msgid "Export Options"
+msgstr ""
+
+#: ../vafpress-framework/views/option/impexp.php:50
+msgid "1-Click Install"
+msgstr ""
+
+#: ../vafpress-framework/views/option/impexp.php:53
+msgid "Install Demo Content in 1-Click"
+msgstr ""
+
+#: ../vafpress-framework/views/option/restore.php:4
+msgid "Restore Default Options"
+msgstr ""
+
+#: ../vafpress-framework/views/option/restore.php:7
+msgid "Restore options to initial default values."
+msgstr ""
+
+#: ../vafpress-framework/views/option/restore.php:14
+msgid ""
+"** Please make sure you have already make a backup data of your current "
+"settings. Once you click this button, your current settings will be gone."
+msgstr ""
+
+#: ../vafpress-framework/views/option/set.php:69
+#: ../vafpress-framework/views/option/set.php:84
+msgid "Save Changes"
+msgstr ""
+
+#: ../vafpress-framework/views/option/set.php:70
+#: ../vafpress-framework/views/option/set.php:85
+msgid "Saving Now"
+msgstr ""
+
+#: ../vafpress-framework/views/option/set.php:93
+#, php-format
+msgid ""
+"This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+"framework\">Vafpress Framework %s</a> powered by <a href=\"http://vafpress."
+"com\">Vafpress</a>"
+msgstr ""

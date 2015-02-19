@@ -1,0 +1,52 @@
+/**
+	AtomCore 
+
+	Copyright (c) 2009-2014 ATOMLABS
+
+	@package Atom
+	@version 1.0.2
+**/
+
+.atomcore-megamenu {padding: 10px;margin-left: -10px;margin-top: -10px;background: #eee;border-bottom: 1px solid #bbb;}
+.atomcore-megamenu-title {color: #333;margin: 0 0 10px;}
+
+.atomcore-megamenu-handle,
+.atomcore-megamenu-handle-sub {font-size: 12px;margin-right: 10px;float: left;line-height: 20px;background: #cb1117;padding: 0 5px;border-radius: 3px;color: #ffffff;}
+
+.atomcore-megamenu-handle-sub {background:#dbd925;}
+.menu-item-depth-1 .atomcore-megamenu-handle-sub {background:#8130dd;}
+.menu-item-depth-2 .atomcore-megamenu-handle-sub {background:#04caa2;}
+.menu-item-depth-3 .atomcore-megamenu-handle-sub {background:#15a7d1;}
+
+.atomcore-megamenu-handle i {margin-right:5px;font-size:14px;}
+
+.atomcore-megamenu-megaimgenable .description {display:block;}
+
+.atomcore-megamenu,
+.atomcore-megamenu-enable,
+.atomcore-megamenu-direction,
+.atomcore-megamenu-handle,
+.atomcore-megamenu-handle-sub,
+.atomcore-megamenu-megashorttitle,
+.atomcore-megamenu-megadescription,
+.atomcore-megamenu-megaimgenable,
+.atomcore-megamenu-megaimglink,
+.atomcore-megamenu-megaimage,
+.atomcore-megamenu-wideenable,
+.atomcore-megamenu-megawidget {display:none;}
+
+.menu-item-depth-0 .atomcore-megamenu,
+.menu-item-depth-0 .atomcore-megamenu-enable,
+.megamenu-enabled.menu-item-depth-0 .atomcore-megamenu-handle,
+.megamenu-enabled.menu-item-depth-0 .atomcore-megamenu-direction,
+.megamenu-enabled.menu-item-depth-0 .atomcore-megamenu-wideenable {display:block;}
+
+.sub-megamenu-enabled .atomcore-megamenu,
+.sub-megamenu-enabled .atomcore-megamenu-handle-sub,
+.sub-megamenu-enabled .atomcore-megamenu-megashorttitle,
+.sub-megamenu-enabled .atomcore-megamenu-megadescription,
+.sub-megamenu-enabled .atomcore-megamenu-megaimgenable,
+.sub-megamenu-enabled .atomcore-megamenu-megaimglink,
+.sub-megamenu-enabled .atomcore-megamenu-megaimage,
+.sub-megamenu-widget .atomcore-megamenu-megawidget {display:block;}
+

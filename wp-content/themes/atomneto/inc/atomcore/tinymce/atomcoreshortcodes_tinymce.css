@@ -1,0 +1,29 @@
+
+.atomcore-shortcode-header {display: inline-block;width: 100%;margin:0 0 10px;border-bottom:1px solid #e8e8e8;padding-bottom: 10px;}
+.atomcore-shortcode-title {float: left;line-height: 20px;padding: 5px 0;}
+.atomcore-shortcode-select {float:right;}
+
+#shortcode-select, .atomcore-select {line-height:20px;padding:5px;width: 100%;}
+
+.shortcodes-container {padding-bottom:10px;margin-bottom:10px;border-bottom:1px solid #e8e8e8;}
+
+.shortcodes-element {display:none;}
+.shortcodes-element.show {display:block;}
+
+.atomcore-table-tr {width: 100%;display: inline-block;margin: 3px 0;}
+.atomcore-table-title {float: left;width: 50%;padding-right:10px;line-height: 30px;}
+.atomcore-table-content {float: right;width: 50%;}
+.atomcore-input-text  {line-height: 20px;padding: 4px;width: 100%}
+.atomcore-page-content-desc {display: block;font-size: 11px;font-style: italic;color: #999;line-height: 14px;}
+
+.atomcore-color-picker {float: left;padding: 5px;border: 1px #ddd solid;border-radius: 3px;cursor: pointer;min-width: 100px;background: #f8f8f8;  background: linear-gradient(top,#f8f8f8,#eee);  background: -webkit-gradient(linear,left top,left bottom,from(#f8f8f8),to(#eee));  background: -moz-linear-gradient(top,#f8f8f8,#eee);  background: -ms-linear-gradient(top,#f8f8f8,#eee);  background: -o-linear-gradient(top,#f8f8f8,#eee);}
+.atomcore-color-picker b {width: 30px;height: 16px;float: left;}
+.atomcore-color-picker span {line-height: 16px;margin: 0 5px;height: 16px;font-size: 12px;float: left;}
+
+.atomcore-textarea {width: 100%;height: 60px;line-height: 20px;padding: 5px;}
+
+.shortcodes-child {padding: 30px 10px 40px;border: 1px solid #e8e8e8;background: #fff;position: relative;}
+.shortcodes-child > h3 {position: absolute;top: 5px;}
+.shortcodes-child .btn-warning {position: absolute;padding: 5px;height: 30px;width: 30px;display: inline-block;bottom: 5px;right: 10px;}
+.shortcodes-child-element {border: 1px solid #e8e8e8;padding: 10px;background: #f8f8f8;margin-bottom: 5px;}
+.shortcodes-child-del {height: 20px;width: 20px;padding: 0;line-height: 20px;float: right;}
