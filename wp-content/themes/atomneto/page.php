@@ -12,14 +12,16 @@
 get_header();
 
 // get page layout
-$layout = atom_get_page_layout(); 
+$layout = atom_get_page_layout();
 ?>
+
+
 <div id="main" class="entry-content container">
 	<div class="row">
-    	<?php if($layout == 2) { ?> 
+    	<?php if($layout == 2) { ?>
             <aside class="col-md-3 col-sm-4"><?php generated_dynamic_sidebar(); ?></aside>
         <?php } ?>
-        
+
         <section class="<?php echo $layout == 1 ? 'col-md-12 col-sm-12' : 'col-md-9 col-sm-8'; ?>">
 			<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
                 <?php the_content(); ?>
@@ -28,7 +30,7 @@ $layout = atom_get_page_layout();
                 <p><?php _e('Sorry, this page does not exist.' , 'atom' ); ?></p>
             <?php endif; ?>
         </section>
-        <?php if($layout == 3) { ?> 
+        <?php if($layout == 3) { ?>
             <aside class="col-md-3 col-sm-4"><?php generated_dynamic_sidebar(); ?></aside>
         <?php } ?>
     </div>
